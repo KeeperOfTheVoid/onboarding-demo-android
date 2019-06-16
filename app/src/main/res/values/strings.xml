@@ -1,5 +1,8 @@
 <resources>
     <string name="app_name">OnboardingDemo</string>
     <string name="heading">Heading</string>
-    <string name="description">Description</string>
+    <string name="descriptionText">Description</string>
+    <string name="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit sed do
+        eiusmod tempor incididunt ut labore et dolore magna aliqua</string>
+
 </resources>
